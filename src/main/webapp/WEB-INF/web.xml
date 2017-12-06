@@ -164,10 +164,6 @@
 		<url-pattern>*.ht</url-pattern>
 	</servlet-mapping>
 	
-	<session-config>
-		<session-timeout>30</session-timeout>
-	</session-config>
-
 	<error-page>
 		<error-code>403</error-code>
 		<location>/commons/403.jsp</location>
