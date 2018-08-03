@@ -17,17 +17,6 @@
 	</properties>
 	<dependencies>
 		<dependency>
-			<groupId>com.casic</groupId>
-			<artifactId>aop-htx3-core</artifactId>
-			<version>2.0.0</version>
-		</dependency>
-
-		<dependency>
-			<groupId>com.casic</groupId>
-			<artifactId>aop-htx3-casic</artifactId>
-			<version>2.0.0</version>
-		</dependency>
-		<dependency>
 			<groupId>appleframe-core</groupId>
 			<artifactId>appleframe-core</artifactId>
 			<version>2.3</version>
